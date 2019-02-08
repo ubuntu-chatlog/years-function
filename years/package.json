@@ -3,15 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "handler.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.18.0",
     "deepmerge": "^2.0.1",
-    "elasticsearch": "^14.0.0"
+    "elasticsearch": "^15.1.1"
   }
 }
