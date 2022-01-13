@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "deepmerge": "^2.0.1",
     "elasticsearch": "^15.1.1"
   }
